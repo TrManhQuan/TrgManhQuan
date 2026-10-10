@@ -6,13 +6,13 @@ import './AttendancePage.css';
 
 // DỮ LIỆU MẪU (MOCK DATA)
 const MOCK_DANH_SACH_SV = [
-    { ID: 1, MA_SINHVIEN: 'SV001', HOTEN: 'Trương Văn Toán', LOP: 'CNTT K2024', TRANG_THAI: 'CO_MAT' },
-    { ID: 2, MA_SINHVIEN: 'SV002', HOTEN: 'Nguyễn Thị Mai', LOP: 'CNTT K2024', TRANG_THAI: 'CO_MAT' },
-    { ID: 3, MA_SINHVIEN: 'SV003', HOTEN: 'Trần Văn Hoàng', LOP: 'CNTT K2023', TRANG_THAI: 'CO_PHEP' },
-    { ID: 4, MA_SINHVIEN: 'SV004', HOTEN: 'Phạm Thị Lan', LOP: 'CNTT K2024', TRANG_THAI: 'CO_MAT' },
-    { ID: 5, MA_SINHVIEN: 'SV005', HOTEN: 'Đặng Minh Tuấn', LOP: 'CNTT K2023', TRANG_THAI: 'VANG' }, 
-    { ID: 6, MA_SINHVIEN: 'SV006', HOTEN: 'Bùi Thị Quỳnh', LOP: 'CNTT K2024', TRANG_THAI: 'CO_MAT' },
-    { ID: 7, MA_SINHVIEN: 'SV007', HOTEN: 'Vũ Đức Nam', LOP: 'CNTT K2023', TRANG_THAI: 'CO_PHEP' },
+    { ID: 1, MA_SINHVIEN: 'SV001', HOTEN: 'Nguyễn Thị Cẩm Giang', LOP: 'CNTT K2024', TRANG_THAI: 'CO_MAT' },
+    { ID: 2, MA_SINHVIEN: 'SV002', HOTEN: 'Võ Nhật Hoàng', LOP: 'CNTT K2024', TRANG_THAI: 'CO_MAT' },
+    { ID: 3, MA_SINHVIEN: 'SV003', HOTEN: 'Nguyễn Xuân Hải', LOP: 'CNTT K2023', TRANG_THAI: 'CO_PHEP' },
+    { ID: 4, MA_SINHVIEN: 'SV004', HOTEN: 'Đinh Vinh Khoa', LOP: 'CNTT K2024', TRANG_THAI: 'CO_MAT' },
+    { ID: 5, MA_SINHVIEN: 'SV005', HOTEN: 'Trương Mạnh Quân', LOP: 'CNTT K2023', TRANG_THAI: 'VANG' }, 
+    { ID: 6, MA_SINHVIEN: 'SV006', HOTEN: 'Trương Văn Toán', LOP: 'CNTT K2024', TRANG_THAI: 'CO_MAT' },
+    { ID: 7, MA_SINHVIEN: 'SV007', HOTEN: 'Nguyễn Trọng Khiêm', LOP: 'CNTT K2023', TRANG_THAI: 'CO_PHEP' },
     { ID: 8, MA_SINHVIEN: 'SV008', HOTEN: 'Ngô Thị Hạnh', LOP: 'CNTT K2024', TRANG_THAI: 'CO_MAT' }
 ];
 
